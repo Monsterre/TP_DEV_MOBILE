@@ -1,5 +1,10 @@
 # filmographia
 
+GALLET
+DAVY
+
+Num Etudiant : 22301039
+
 A new Flutter project.
 
 ## Getting Started
